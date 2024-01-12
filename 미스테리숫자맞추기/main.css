@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  width: 300px;
+  margin: 0 auto;
+  justify-content: center;
+}
